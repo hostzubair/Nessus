@@ -37,14 +37,44 @@ compromise the system’s integrity, availability, or confidentiality.
 (Windows 10 and Metasploitable2).</b></summary>
 
 
-![image alt](https://github.com/hostzubair/Wireshark/blob/213a3e5936798dd16bdc4f08151dafd860289e12/Images/Screenshot%20(57).png)
-![image alt]()
+![image alt](https://github.com/hostzubair/Nessus/blob/d91e2fc93cd9f6d68351f97dd2f0c3f1cc9c5288/Image/Screenshot%20(71).png)
+
+<summary><b>NESSUS IN KALI</b></summary>   
+
+![image alt](https://github.com/hostzubair/Nessus/blob/d91e2fc93cd9f6d68351f97dd2f0c3f1cc9c5288/Image/Screenshot%20(47).png)
+
+<summary><b>TARGET MACHINE 1 - WINDOWS 10</b></summary>   
+
+![image alt](https://github.com/hostzubair/Nessus/blob/d91e2fc93cd9f6d68351f97dd2f0c3f1cc9c5288/Image/Screenshot%20(45).png)
+
+<summary><b>TARGET MACHINE 2 – METASPLOITABLE</b></summary>   
+
+![image alt](https://github.com/hostzubair/Nessus/blob/d91e2fc93cd9f6d68351f97dd2f0c3f1cc9c5288/Image/Screenshot%20(46).png)
 
 
 # Task 3: Configure Nessus Scan 
 <summary><b>Create a new scan (Basic Network Scan), enter the target IP, and launch the scan</b></summary>
 
-![image alt](https://github.com/hostzubair/Wireshark/blob/213a3e5936798dd16bdc4f08151dafd860289e12/Images/Screenshot%20(58).png)
+<summary><b>SCANNED WINDOWS 10 MACHINE</b></summary>
+
+
+![image alt](https://github.com/hostzubair/Nessus/blob/d91e2fc93cd9f6d68351f97dd2f0c3f1cc9c5288/Image/Screenshot%20(48).png)
+
+<summary><b>RESULT</b></summary>
+
+
+![image alt](https://github.com/hostzubair/Nessus/blob/d91e2fc93cd9f6d68351f97dd2f0c3f1cc9c5288/Image/Screenshot%20(51).png)
+
+<summary><b>SCANNED METASPLOITABLE MACHINE</b></summary>
+
+
+![image alt](https://github.com/hostzubair/Nessus/blob/d91e2fc93cd9f6d68351f97dd2f0c3f1cc9c5288/Image/Screenshot%20(49).png)
+
+<summary><b>RESULT</b></summary>
+
+
+![image alt](https://github.com/hostzubair/Nessus/blob/d91e2fc93cd9f6d68351f97dd2f0c3f1cc9c5288/Image/Screenshot%20(52).png)
+
 
 # Task 4: Analyze Scan Results
 <summary><b>After the scans completed, vulnerabilities were categorized by severity: Critical, High,
@@ -68,20 +98,38 @@ cookie handling.
 
 Each vulnerability included detailed plugin output, description, impact, and recommended
 mitigation</b></summary>
-![image alt]()
 
 
-# Task 3: Analyze Scan Results
-<summary><b></b></summary>
-![image alt]()
 
-# Task 3: 
-<summary><b></b></summary>
-![image alt]()
+# Task 5: Generate Reports 
 
-# Task 3: 
-<summary><b></b></summary>
-![image alt]()
+
+<summary><b>Results were exported as PDF and CSV for further analysis and documentation. Nessus provided
+detailed summaries including CVE IDs, CVSS scores, and risk ratings, useful for reporting and
+remediation tracking</b></summary>    
+
+ 
+
+
+![image alt](https://github.com/hostzubair/Nessus/blob/d91e2fc93cd9f6d68351f97dd2f0c3f1cc9c5288/Image/Screenshot%20(54).png)
+
+# Conclusion 
+
+
+The Nessus vulnerability assessment project successfully demonstrated how to perform
+vulnerability scanning, interpret findings, and propose remediation strategies.
+Through systematic analysis, vulnerabilities were effectively categorized and documented,
+reinforcing the importance of continuous vulnerability management in cybersecurity.
+
+
+Nessus proved to be a reliable and versatile tool for identifying security weaknesses across
+diverse environments.
+This project enhanced understanding of:
+
+
+ Network and host-based vulnerability detection,
+ CVE and CVSS scoring interpretation,
+ Patch management and remediation validation
 
 
 
