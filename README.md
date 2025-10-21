@@ -70,6 +70,13 @@ compromise the system’s integrity, availability, or confidentiality.
 
 ![image alt](https://github.com/hostzubair/Nessus/blob/d91e2fc93cd9f6d68351f97dd2f0c3f1cc9c5288/Image/Screenshot%20(49).png)
 
+<summary><b>SCANNED testphp.vulnweb </b></summary>
+
+
+![image alt](https://github.com/hostzubair/Nessus/blob/6b9b5f50ae1fc42bd24f22026dcdaa775bad9039/Image/Screenshot%20(53).png)
+
+
+
 <summary><b>RESULT</b></summary>
 
 
@@ -124,11 +131,17 @@ reinforcing the importance of continuous vulnerability management in cybersecuri
 
 Nessus proved to be a reliable and versatile tool for identifying security weaknesses across
 diverse environments.
+
+
 This project enhanced understanding of:
 
 
  Network and host-based vulnerability detection,
+
+
  CVE and CVSS scoring interpretation,
+
+
  Patch management and remediation validation
 
 
